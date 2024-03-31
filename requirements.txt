@@ -1,6 +1,10 @@
 # general purpose
 ipykernel
 
+# Database operation
+sqlalchemy
+psycopg2
+
 # ML toolbox 
 numpy
 matplotlib
